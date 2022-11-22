@@ -3,6 +3,7 @@
  * @author Cpup
  * @description Provides support for end-to-end encryption over private (one-on-one) channels.
  * @version 0.0.1
+ * @updateUrl https://github.com/CpupHEARTTHROB/Encryptor/blob/main/Encryptor.plugin.js
  */
 
  module.exports = class Encryptor {
