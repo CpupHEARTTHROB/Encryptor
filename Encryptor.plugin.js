@@ -29,11 +29,7 @@
          */
         this.to = to;
         
-    }
-
-    
-    
-    
+    }    
 
     stop() {
         this.AES.Done();
